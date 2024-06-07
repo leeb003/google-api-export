@@ -323,7 +323,7 @@ $fields = array (
 */
 
 // Publisher
-/* No results uptownwigs.com
+/*
 $type = "publisher";
 $dimensions = array();
 $fields = array (
